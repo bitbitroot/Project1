@@ -21,3 +21,8 @@ This dataset captures comprehensive metrics and demographics related to player b
 - PlayerLevel : Current level of the player in the game.
 - AchievementsUnlocked : Number of achievements unlocked by the player.
 - EngagementLevel : Categorized engagement level reflecting player retention ('High', 'Medium', 'Low').
+
+**Implications**
+
+- When it comes to targets’ age and location, game genre seems significant to encourage them to purchase in-game content.
+- The in-game content purchase prediction models show not acceptable performance. However, it can be referred to predict players who might not purchase in-game content.
